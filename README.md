@@ -30,9 +30,16 @@ My specialty is to build cool things, quickly and aiming directly at the needs o
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on nothing special
+
+
 - 🌱 I’m currently learning GraphQL
+
+
 - ❓ Ask me about anything related to Laravel
+
+
 - ⚡ Fun fact: I didn't like front-end until I learn Tailwind
+
 
 </td><td valign="top" width="50%">
 
